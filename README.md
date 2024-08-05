@@ -1,0 +1,1 @@
+The work of Conrey, Farmer and Imamoglu shows that all nontrivial zeros of the odd period polynomial of a Hecke eigenform of level one lie on the unit circle. We further show that nontrivial zeros of odd period polynomials of Hecke eigenforms of different weights share certain interlacing property.
